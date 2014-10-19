@@ -7,7 +7,7 @@ There were many changes I made to this project.  The changes will help support e
 
 Some of the issues I saw
 
-Duplication of code.  the total calculations and discount logic where duplicated.  I pulled these out into sperated types that do one thing well instead of many things,  Single Responbility.
+Duplication of code.  the total calculations and discount logic where duplicated.  I pulled these out into seperated types that do one thing well instead of many things,  Single Responbility.
 
 Tight Coupling.  The code was very tighly coupled.  Each method to render a receipt contained all the code it needed to do so.  I created many new types that each have a very specific purpose.
 
