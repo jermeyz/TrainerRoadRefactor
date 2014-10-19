@@ -16,3 +16,5 @@ Refactoring in my opinion is never really done.  Each new change to a system is 
 I also added many new tests.  For each new type that was added I used a coverage tool to ensure that there is a reasonable amount of coverage against the new code.  I also left the exisiting test assertions unchanged.  By doing so,  I know the code is at least doing the same thing that it was before the refactor.
 
 I made some comments inline in the code where I wanted to point out why I made the change I did.  Enjoy!!!
+
+:bicyclist:
